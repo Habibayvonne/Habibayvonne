@@ -1,19 +1,18 @@
- <h2 align="center"> Hi, I'm Habiba Yvonne<em> <img src= "https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="50"></em></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="130">
+ <h2 align="center"> Hi, I'm Habiba Yvonne<em> </h2>
 <div><em>
   <p>Remote Software developer ready for work!!</p>                         
-<p align="center"> I'm currently advancing my skills in a remote learning software development program at <a href="https://www.microverse.org/">Microverse</a>.</p>
+<p align="center"> I'm currently advancing my skills in a remote self paced learning  program at <a href="https://scrimba.com/">Scrimba</a>.</p>
   <p align="center">I mostly spend my time exploring various frameworks related to web development.</p></em></div>
 <br>
 <strong>A little more about me...</strong>
 
 - 🌱 I’m currently learning  React/Redux, and Typescript
 -  🔭 Enjoying bringing creative and innovative solutions using sustainable softwares.
-- 👯 I’m looking to collaborate any Front-end development projects 
+- 👯 I’m looking to  any collaborate  Front-end development projects 
 - 🤔 I’m looking for help with Redux
 - 💬 Ask me about UI /UX design
 - 😄 Pronouns:She/Her
-- ⚡ Fun fact: I am a fashion enthusiast and aspiring stylist when not coding you will find me doing those 
+- ⚡ Fun fact:when not coding I am a fashion designer and aspiring stylist.
 
 
 <div align="center"><p> 📫 Personal Adresss:</p>
